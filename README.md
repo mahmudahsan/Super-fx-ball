@@ -5,10 +5,10 @@ A classical brick breaking adventurous game for J2ME based mobile phone. It is s
     <a href="https://github.com/mahmudahsan/Super-fx-ball">
         <img src="https://img.shields.io/badge/Java-J2ME-orange.svg" alt="j2me" />
     </a>
-    <a href="https://github.com/mahmudahsan/Super-fx-ball">
+    <a href="https://docs.oracle.com/javame/config/cldc/ref-impl/cldc1.0/cldcapi.pdf">
         <img src="https://img.shields.io/badge/CLDC-1.0-yellowgreen.svg" alt="j2me" />
     </a>
-    <a href="https://github.com/mahmudahsan/Super-fx-ball">
+    <a href="http://www.oracle.com/technetwork/java/whatsnew-138562.html">
         <img src="https://img.shields.io/badge/MIDP-2.0-red.svg" alt="j2me" />
     </a>
     <a href="https://twitter.com/mahmudahsan">
