@@ -16,13 +16,13 @@ A classical brick breaking adventurous game for J2ME based mobile phone. It is s
 
 ## Features
 
--> 60 different levels
--> Animation makes every second enjoyment
--> Beautiful and attractive graphics
--> Event based sounds make game enjoyable.
--> Game becomes difficult over time.
--> Bonus points.
--> High score.
+-> 60 different levels <br />
+-> Animation makes every second enjoyment<br />
+-> Beautiful and attractive graphics<br />
+-> Event based sounds make game enjoyable.<br />
+-> Game becomes difficult over time.<br />
+-> Bonus points.<br />
+-> High score.<br />
 
 
 ## Development
