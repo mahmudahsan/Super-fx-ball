@@ -2,6 +2,15 @@
 A classical brick breaking adventurous game for J2ME based mobile phone. It is similar like popular DX Ball game for Windows. 
 
 <p align="center">
+    <a href="">
+        <img src="https://img.shields.io/badge/Java-J2ME-orange.svg" alt="j2me" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/CLDC-1.0-yellowgreen.svg" alt="j2me" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/MIDP-2.0-red.svg" alt="j2me" />
+    </a>
     <a href="https://twitter.com/mahmudahsan">
         <img src="https://img.shields.io/badge/contact%40-mahmudahsan-green.svg" alt="Twitter: @mahmudahsan" />
     </a>
