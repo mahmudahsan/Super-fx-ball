@@ -34,4 +34,4 @@ I used NetBeans IDE to develop and build the game.
 
 ## Questions or feedback?
 
-Feel free to [open an issue](https://github.com/mahmudahsan/AppsPortfolio/issues/new), or find me [@mahmudahsan on Twitter](https://twitter.com/mahmudahsan).
+Feel free to contact me [@mahmudahsan on Twitter](https://twitter.com/mahmudahsan).
