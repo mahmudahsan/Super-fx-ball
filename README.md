@@ -2,7 +2,7 @@
 A classical brick breaking adventurous game for J2ME based mobile phone. It is similar like popular DX Ball game for Windows. 
 
 <p align="center">
-    <a href="https://github.com/mahmudahsan/Super-fx-ball">
+    <a href="http://www.oracle.com/technetwork/java/embedded/javame/index.html">
         <img src="https://img.shields.io/badge/Java-J2ME-orange.svg" alt="j2me" />
     </a>
     <a href="https://docs.oracle.com/javame/config/cldc/ref-impl/cldc1.0/cldcapi.pdf">
