@@ -13,7 +13,10 @@ A classical brick breaking adventurous game for J2ME based mobile phone. It is s
     <img src="game2.jpg" width="95" max-width="100%" alt="Super Fx Ball" />
     <img src="game3.jpg" width="95" max-width="100%" alt="Super Fx Ball" />
 </p>	
+
+<p align="center">
 <a href="dist/Super%20FX-BALL.jar">Download J2ME Super FX BALL Game</a>
+</p>
 
 ## Features
 
